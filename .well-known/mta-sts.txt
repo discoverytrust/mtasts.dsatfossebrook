@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
 mx: dsatfossebrook-org.mail.protection.outlook.com
-max_age: 788920 
+max_age: 889201 
